@@ -1,0 +1,4 @@
+id,username,password,age,first_name,last_name,is_loggedin,role
+a2e0a1d4-52dc-4b26-b42e-2fdefbc0c5b5,john_doe,hashed_password,30,John,Doe,False,user
+c8b9e7a6-f23b-4e85-8e72-cd8a7b39e3b2,jane_smith,hashed_password,25,Jane,Smith,False,admin
+e1f7acb6-4b47-4c0b-a7eb-f5b214a6c85e,bob_jones,hashed_password,28,Bob,Jones,False,user

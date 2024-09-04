@@ -1,0 +1,2 @@
+id,first_name,last_name,username,password,is_loggedin,role
+f51b4248-f683-462b-911f-16a9e88228b5,sabaa,safaa,sabaa123,$2b$12$VyHwNnrW2Hn/amhCCtnFx.OL.qGOGPc3RpB8U8jTkOGEF3ce6bpa6,False,user
